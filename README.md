@@ -1,12 +1,11 @@
 # My-Monthly-Expenditure-Analysis
 
 **Personal Expenditure Bank Statement Data Analysis**
-## 📁 Data Source
+##  Data Source
 
 - **Source**: Personal bank statement
 - **Conversion Method**: Exported and converted to `.csv` using a mobile app
-- **File**: `data/BankStatement.csv`
-- **Fields Included**: Transaction_Date,Value_date,Reference,Debits,Credits,
+- **File**C:\Users\USER\Documents\BankStatement.csv
 
 This file served as the raw data for building all visualizations and calculations in the Power BI dashboard.
 
